@@ -9,7 +9,8 @@
 | Mantavya Gupta | [@mantavya-gupta](https://github.com/mantavya-gupta) |
 | Vinil Shah | [@vinilshah-source](https://github.com/vinilshah-source) |
 
-**Repository:** `https://github.com/mantavya-gupta/crime-in-india-analysis`
+**Repository:** `https://github.com/mantavya-gupta/crime-in-india-analysis 
+                https://github.com/vinilshah-source/crime-in-india-analysis.git`
 **Dataset:** [Crime in India (Kaggle, by Rajanand)](https://www.kaggle.com/datasets/rajanand/crime-in-india)
 
 ---

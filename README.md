@@ -7,7 +7,7 @@
 | Name | GitHub |
 |------|--------|
 | Mantavya Gupta | [@mantavya-gupta](https://github.com/mantavya-gupta) |
-| [Vinil Shah] | [@teammate-username](https://github.com/teammate-username) |
+| [Vinil Shah] | [@vinilshah-source](https://github.com/username) |
 
 **Repository:** `https://github.com/mantavya-gupta/crime-in-india-analysis`
 **Dataset:** [Crime in India (Kaggle, by Rajanand)](https://www.kaggle.com/datasets/rajanand/crime-in-india)

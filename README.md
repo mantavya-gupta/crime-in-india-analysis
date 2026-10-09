@@ -160,7 +160,7 @@ crime-in-india-analysis/
 | Week 1 | Repo setup, proposal, dataset download & inspection | Both |
 | Week 2 | Data cleaning and preprocessing | Mantavya |
 | Week 3 | EDA and trend/state-level plots (1–5) | Mantavya |
-| Week 3 | Vulnerable-group, district and correlation plots (6–11) | [Teammate] |
+| Week 3 | Vulnerable-group, district and correlation plots (6–11) Vinil |
 | Week 4 | Map, dashboard (optional), insights report, final documentation | Both |
 
 ---
